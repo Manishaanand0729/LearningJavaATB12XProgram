@@ -2,7 +2,7 @@ package Task;
 
 import java.util.Scanner;
 
-public class Lab067_Max3_Number {
+public class Lab067_Max3_Number_17May {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
