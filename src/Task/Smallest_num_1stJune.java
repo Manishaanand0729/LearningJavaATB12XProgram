@@ -1,6 +1,6 @@
 package Task;
 
-public class Smallest_num_1stMay {
+public class Smallest_num_1stJune {
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,5};
         int min = arr[0];
